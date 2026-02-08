@@ -1,0 +1,13 @@
+{
+  "audio_duration_sec": 50.578,
+  "audio_duration_min": 0.8429666666666668,
+  "price_per_min": 0.006,
+  "estimated_cost": 0.0050578,
+  "scenarios_costs": {
+    "30": 0.003,
+    "60": 0.006,
+    "600": 0.06,
+    "3600": 0.36,
+    "7200": 0.72
+  }
+}
